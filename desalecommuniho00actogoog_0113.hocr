@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./desalecommuniho00actogoog_0113.png"; bbox 0 0 879 1327; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 168 142 188 158">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 168 142 188 158">
+     <span class='ocr_line' id='line_1_1' title="bbox 168 142 188 158; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 168 142 188 158; x_wconf 88' lang='lat'>86</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 359 141 570 158">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 359 141 570 158">
+     <span class='ocr_line' id='line_1_2' title="bbox 359 141 570 158; baseline -0.005 0"><span class='ocrx_word' id='word_1_2' title='bbox 359 142 388 158; x_wconf 86' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_3' title='bbox 398 141 451 158; x_wconf 81' lang='lat' dir='ltr'><em>SALE</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 462 141 570 158; x_wconf 86' lang='lat' dir='ltr'><em>COMMUN!</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 197 1204 713 1250">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 197 1204 713 1250">
+     <span class='ocr_line' id='line_1_3' title="bbox 197 1204 713 1225; baseline 0 -5"><span class='ocrx_word' id='word_1_5' title='bbox 197 1206 215 1224; x_wconf 92' lang='grc' dir='ltr'>Α,</span> <span class='ocrx_word' id='word_1_6' title='bbox 225 1207 250 1220; x_wconf 75' lang='lat' dir='ltr'>est</span> <span class='ocrx_word' id='word_1_7' title='bbox 259 1209 300 1225; x_wconf 77' lang='lat' dir='ltr'>cupa</span> <span class='ocrx_word' id='word_1_8' title='bbox 310 1209 373 1224; x_wconf 79' lang='lat' dir='ltr'>magna.</span> <span class='ocrx_word' id='word_1_9' title='bbox 397 1204 414 1222; x_wconf 83' lang='grc' dir='ltr'>Β,</span> <span class='ocrx_word' id='word_1_10' title='bbox 423 1205 477 1220; x_wconf 77' lang='lat' dir='ltr'>turbo.</span> <span class='ocrx_word' id='word_1_11' title='bbox 501 1205 577 1223; x_wconf 66' lang='lat' dir='ltr'>Lamum,</span> <span class='ocrx_word' id='word_1_12' title='bbox 588 1205 608 1221; x_wconf 77' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_13' title='bbox 631 1204 713 1220; x_wconf 78' lang='lat' dir='ltr'>Cochlear</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 259 1229 645 1250; baseline 0 -4"><span class='ocrx_word' id='word_1_14' title='bbox 259 1230 317 1249; x_wconf 73' lang='lat' dir='ltr'><strong>altum,</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 328 1230 347 1246; x_wconf 89' lang='lat' dir='ltr'>D.</span> <span class='ocrx_word' id='word_1_16' title='bbox 371 1229 424 1250; x_wconf 76' lang='lat' dir='ltr'>Cupae</span> <span class='ocrx_word' id='word_1_17' title='bbox 432 1234 495 1250; x_wconf 63' lang='lat' dir='ltr'>parvm,</span> <span class='ocrx_word' id='word_1_18' title='bbox 505 1230 521 1246; x_wconf 86' lang='grc' dir='ltr'>Ε.</span> <span class='ocrx_word' id='word_1_19' title='bbox 543 1229 619 1250; x_wconf 79' lang='lat' dir='ltr'>cortina,</span> <span class='ocrx_word' id='word_1_20' title='bbox 628 1230 645 1246; x_wconf 87' lang='lat' dir='ltr'>F.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
